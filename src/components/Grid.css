@@ -1,3 +1,4 @@
 .Grid {
-    display: grid;
+  display: grid;
+  justify-content: center;
 }
